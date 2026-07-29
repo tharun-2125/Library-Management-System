@@ -28,6 +28,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+<img width="1224" height="614" alt="image" src="https://github.com/user-attachments/assets/e7843f39-5b84-4356-be0f-17f62ec9614e" />
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -38,7 +39,8 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-<img width="1224" height="614" alt="image" src="https://github.com/user-attachments/assets/e7843f39-5b84-4356-be0f-17f62ec9614e" />
+<img width="798" height="652" alt="377792388-e2cbba79-5163-43c8-b24a-0b5c34aa87be" src="https://github.com/user-attachments/assets/42d0c1d0-ec6a-4a0e-8cf3-36ecba79eb76" />
+
 
 
 
@@ -59,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1238" height="752" alt="377792564-be35de35-48f9-4173-82b8-7a2d57c5afe2" src="https://github.com/user-attachments/assets/4ba5aaed-489a-4def-b7f9-89cd98d879a4" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +69,8 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+<img width="888" height="533" alt="377793011-0881e852-db0b-40b7-88b7-540351f78100" src="https://github.com/user-attachments/assets/9f6e107d-8ff5-46e3-87e4-5a618fc63a7e" />
 
 
 
@@ -81,6 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="911" height="528" alt="377792928-c8bd8329-8b43-45d1-b301-c057a1c3e9e9" src="https://github.com/user-attachments/assets/2d60af31-b11e-4d05-ab3b-2714516067d4" />
 
 
 
