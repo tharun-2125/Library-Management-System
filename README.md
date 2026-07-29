@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240173
+# Name:Tharun N
+# Date:29/7/26
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1210" height="979" alt="image" src="https://github.com/user-attachments/assets/ce31365e-a6df-4154-a6ce-e5071dd4a661" />
 
 
 
