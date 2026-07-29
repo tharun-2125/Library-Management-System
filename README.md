@@ -39,11 +39,10 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-<img width="798" height="652" alt="377792388-e2cbba79-5163-43c8-b24a-0b5c34aa87be" src="https://github.com/user-attachments/assets/42d0c1d0-ec6a-4a0e-8cf3-36ecba79eb76" />
 
 
 
-
+<img width="1224" height="614" alt="image" src="https://github.com/user-attachments/assets/e7843f39-5b84-4356-be0f-17f62ec9614e" />
 
 
 
@@ -61,7 +60,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="1238" height="752" alt="377792564-be35de35-48f9-4173-82b8-7a2d57c5afe2" src="https://github.com/user-attachments/assets/4ba5aaed-489a-4def-b7f9-89cd98d879a4" />
+
+<img width="798" height="652" alt="377792388-e2cbba79-5163-43c8-b24a-0b5c34aa87be" src="https://github.com/user-attachments/assets/42d0c1d0-ec6a-4a0e-8cf3-36ecba79eb76" />
 
 
 # COMMUNICTION DIAGRAM:
