@@ -85,8 +85,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1051" height="777" alt="image" src="https://github.com/user-attachments/assets/d4cfe1c5-1566-4e16-bed7-2b90ff7ad606" />
 
-<img width="911" height="528" alt="377792928-c8bd8329-8b43-45d1-b301-c057a1c3e9e9" src="https://github.com/user-attachments/assets/2d60af31-b11e-4d05-ab3b-2714516067d4" />
 
 
 
